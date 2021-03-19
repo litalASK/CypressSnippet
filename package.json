@@ -1,0 +1,23 @@
+{
+  "name": "cypresssnippet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litalASK/CypressSnippet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litalASK/CypressSnippet/issues"
+  },
+  "homepage": "https://github.com/litalASK/CypressSnippet#readme",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
